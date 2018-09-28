@@ -1,2 +1,2 @@
-# Java-Classes
+# Java-Tutorials
 Java Tutorials for students
